@@ -1,5 +1,6 @@
 # Localhostpractice
-## This is a simple Node.js HTTP server with basic routing functionality. The server listens on port 80 for incoming HTTP requests, and based on the requested URL and HTTP method, it sends a response with different content types and messages.
+
+This is a simple Node.js HTTP server with basic routing functionality. The server listens on port 80 for incoming HTTP requests, and based on the requested URL and HTTP method, it sends a response with different content types and messages.
 
 The server has three routes:
 
